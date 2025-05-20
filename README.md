@@ -25,7 +25,6 @@ A landing page apresenta:
 Você pode visualizar a apresentação em PDF clicando no link abaixo:
 
 🔗 [`TechVerde_Apresentacao_Lais.pdf`](./TechVerde_Apresentacao_Lais.pdf)
-file:///C:/Users/lais_/Downloads/techverde.html
 ## 👩‍💻 Autoria
-Projeto desenvolvido por **Lais de Freitas Rabelo** — aluna de Sistemas de Informação (EAD) na Universidade Cruzeiro do Sul.
+Projeto desenvolvido por **Lais de Freitas Rabelo** — aluna de Sistemas de Informação na Universidade Cruzeiro do Sul.
 
